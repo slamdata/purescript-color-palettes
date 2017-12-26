@@ -1,0 +1,28 @@
+{
+  "name": "purescript-color-paletes",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/slamdata/purescript-color-palettes.git"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "tests",
+    "tmp",
+    "bower.json",
+    "package.json",
+    "example"
+  ],
+  "dependencies": {
+    "purescript-colors": "^4.3.0",
+    "purescript-safelist": "^1.1.0",
+    "purescript-generics-rep": "^5.4.0",
+    "purescript-css": "^3.3.0"
+  },
+  "resolutions": {
+    "purescript-colors": "^4.3.0"
+  }
+}
